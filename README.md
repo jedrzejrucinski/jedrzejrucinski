@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--![mini_logo](https://user-images.githubusercontent.com/72413668/234885535-85374949-ce79-4c11-8de5-cc26a7a718a9.png)
+<!--![mini_logo](mini_logo.png)
 
 **jedrzejrucinski/jedrzejrucinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
