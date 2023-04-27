@@ -1,4 +1,3 @@
-### Hi there 👋
 ![mini_logo](mini_logo.png)
 
 <!--
